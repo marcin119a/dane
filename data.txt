@@ -1,0 +1,8 @@
+Party 	Gain/loss
+Union 	-8.6
+SPD 	-5.2
+Linke 	0.6
+Grüne 	0.5
+FDP 	6.0
+AfD 	7.9
+Andere 	-1.2 
